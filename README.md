@@ -1,4 +1,4 @@
-# play_youtube_using_pyhon
+# play_youtube__videos_using_python
 
 vlc is the original package from pylib website. if you already have installed using "pip install python-vlc", then 
 
